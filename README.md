@@ -1,2 +1,2 @@
 # hello-world
-first gut hub demo
+first git hub demo
